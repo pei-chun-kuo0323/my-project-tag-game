@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "allegro_audio.h": "c",
+        "allegro_image.h": "c",
+        "allegro.h": "c",
+        "allegro_primitives.h": "c",
+        "rectangle.h": "c",
+        "element.h": "c",
+        "floor.h": "c",
+        "teleport.h": "c",
+        "tree.h": "c",
+        "rodup.h": "c",
+        "canon.h": "c",
+        "global.h": "c",
+        "gamescene.h": "c",
+        "kid.h": "c",
+        "time1.h": "c",
+        "roddown.h": "c",
+        "conan.h": "c",
+        "time2.h": "c"
+    }
+}
